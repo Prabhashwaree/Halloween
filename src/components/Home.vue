@@ -1,11 +1,13 @@
 <script setup>
-import Home from './components/Home.vue'
+
 </script>
 
 <template>
-<Home></Home>
+  <h1>nethmini</h1>
 </template>
 
 <style scoped>
-
+h1{
+    color: aqua;
+}
 </style>
